@@ -1,7 +1,3 @@
-Here’s a detailed description you can use for your README file on GitHub based on the work you've done:
-
----
-
 # Credit Card Fraud Detection
 
 This project focuses on detecting fraudulent transactions in a dataset of credit card transactions. The goal is to identify patterns and predict whether a transaction is fraudulent using machine learning techniques. The dataset contains various features related to the transaction, and the target variable indicates whether the transaction was fraudulent (1) or not (0).
